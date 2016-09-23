@@ -1,4 +1,4 @@
-# you can make react, hapi, webpack project by cloning this code or typing following description
+# You can make react, hapi, webpack project by cloning this code or typing following description
 
 # React & Hapi 설치구성
 ## react.js + hapi.js + webpack 설치
