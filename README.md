@@ -4,6 +4,7 @@
 ## react.js + hapi.js + webpack 설치
 참조링크: 
 [Serving React and Flux with Hapi and Webpack](https://medium.com/@tribou/serving-react-and-flux-with-hapi-and-webpack-213afacf94ea#.tge2d3yiz)
+
 [create-react-app 사용하기 + react-hot-loader 적용](https://velopert.com/2037)
 
 ### 1. PJT 초기화
